@@ -15,7 +15,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/tzom/pip_install_test/issues.
+Report bugs at https://github.com/tzom/usi_grabber_cookiecutter/issues.
 
 If you are reporting a bug, please include:
 
@@ -38,14 +38,14 @@ and "help wanted" is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-pip_install_test could always use more documentation, whether as part of the
-official pip_install_test docs, in docstrings, or even on the web in blog posts,
+usi_grabber could always use more documentation, whether as part of the
+official usi_grabber docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback
 ~~~~~~~~~~~~~~~
 
-The best way to send feedback is to file an issue at https://github.com/tzom/pip_install_test/issues.
+The best way to send feedback is to file an issue at https://github.com/tzom/usi_grabber_cookiecutter/issues.
 
 If you are proposing a feature:
 
@@ -57,17 +57,17 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here's how to set up `pip_install_test` for local development.
+Ready to contribute? Here's how to set up `usi_grabber_cookiecutter` for local development.
 
-1. Fork the `pip_install_test` repo on GitHub.
+1. Fork the `usi_grabber_cookiecutter` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/pip_install_test.git
+    $ git clone git@github.com:your_name_here/usi_grabber_cookiecutter.git
 
 3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
 
-    $ mkvirtualenv pip_install_test
-    $ cd pip_install_test/
+    $ mkvirtualenv usi_grabber_cookiecutter
+    $ cd usi_grabber_cookiecutter/
     $ python setup.py develop
 
 4. Create a branch for local development::
@@ -79,7 +79,7 @@ Ready to contribute? Here's how to set up `pip_install_test` for local developme
 5. When you're done making changes, check that your changes pass flake8 and the
    tests, including testing other Python versions with tox::
 
-    $ flake8 pip_install_test tests
+    $ flake8 usi_grabber_cookiecutter tests
     $ python setup.py test or pytest
     $ tox
 
@@ -103,7 +103,7 @@ Before you submit a pull request, check that it meets these guidelines:
    your new functionality into a function with a docstring, and add the
    feature to the list in README.rst.
 3. The pull request should work for Python 3.5, 3.6, 3.7 and 3.8, and for PyPy. Check
-   https://travis-ci.com/tzom/pip_install_test/pull_requests
+   https://travis-ci.com/tzom/usi_grabber_cookiecutter/pull_requests
    and make sure that the tests pass for all supported Python versions.
 
 Tips
@@ -112,7 +112,7 @@ Tips
 To run a subset of tests::
 
 
-    $ python -m unittest tests.test_pip_install_test
+    $ python -m unittest tests.test_usi_grabber_cookiecutter
 
 Deploying
 ---------

@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Tom Altenburg <tomolus@googlemail.com>
+* Tom Altenburg <tom.altenburg@hpi.de>
 
 Contributors
 ------------

@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install pip_install_test, run this command in your terminal:
+To install usi_grabber, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install pip_install_test
+    $ pip install usi_grabber_cookiecutter
 
-This is the preferred method to install pip_install_test, as it will always install the most recent stable release.
+This is the preferred method to install usi_grabber, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,19 +26,19 @@ you through the process.
 From sources
 ------------
 
-The sources for pip_install_test can be downloaded from the `Github repo`_.
+The sources for usi_grabber can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/tzom/pip_install_test
+    $ git clone git://github.com/tzom/usi_grabber_cookiecutter
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl -OJL https://github.com/tzom/pip_install_test/tarball/master
+    $ curl -OJL https://github.com/tzom/usi_grabber_cookiecutter/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/tzom/pip_install_test
-.. _tarball: https://github.com/tzom/pip_install_test/tarball/master
+.. _Github repo: https://github.com/tzom/usi_grabber_cookiecutter
+.. _tarball: https://github.com/tzom/usi_grabber_cookiecutter/tarball/master

@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = pip_install_test
+SPHINXPROJ    = usi_grabber_cookiecutter
 SOURCEDIR     = .
 BUILDDIR      = _build
 

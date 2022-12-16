@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use pip_install_test in a project::
+To use usi_grabber in a project::
 
-    import pip_install_test
+    import usi_grabber_cookiecutter

@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=pip_install_test
+set SPHINXPROJ=usi_grabber_cookiecutter
 
 if "%1" == "" goto help
 

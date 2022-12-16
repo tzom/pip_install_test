@@ -16,7 +16,7 @@ test_requirements = [ ]
 
 setup(
     author="Tom Altenburg",
-    author_email='tomolus@googlemail.com',
+    author_email='tom.altenburg@hpi.de',
     python_requires='>=3.6',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
@@ -31,19 +31,19 @@ setup(
     description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
     entry_points={
         'console_scripts': [
-            'pip_install_test=pip_install_test.cli:main',
+            'usi_grabber_cookiecutter=usi_grabber_cookiecutter.cli:main',
         ],
     },
     install_requires=requirements,
     license="MIT license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords='pip_install_test',
-    name='pip_install_test',
-    packages=find_packages(include=['pip_install_test', 'pip_install_test.*']),
+    keywords='usi_grabber_cookiecutter',
+    name='usi_grabber_cookiecutter',
+    packages=find_packages(include=['usi_grabber_cookiecutter', 'usi_grabber_cookiecutter.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/tzom/pip_install_test',
+    url='https://github.com/tzom/usi_grabber_cookiecutter',
     version='0.1.0',
     zip_safe=False,
 )

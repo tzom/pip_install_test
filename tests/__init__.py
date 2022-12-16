@@ -1,1 +1,1 @@
-"""Unit test package for pip_install_test."""
+"""Unit test package for usi_grabber_cookiecutter."""

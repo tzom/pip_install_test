@@ -1,16 +1,16 @@
-================
-pip_install_test
-================
+===========
+usi_grabber
+===========
 
 
-.. image:: https://img.shields.io/pypi/v/pip_install_test.svg
-        :target: https://pypi.python.org/pypi/pip_install_test
+.. image:: https://img.shields.io/pypi/v/usi_grabber_cookiecutter.svg
+        :target: https://pypi.python.org/pypi/usi_grabber_cookiecutter
 
-.. image:: https://img.shields.io/travis/tzom/pip_install_test.svg
-        :target: https://travis-ci.com/tzom/pip_install_test
+.. image:: https://img.shields.io/travis/tzom/usi_grabber_cookiecutter.svg
+        :target: https://travis-ci.com/tzom/usi_grabber_cookiecutter
 
-.. image:: https://readthedocs.org/projects/pip-install-test/badge/?version=latest
-        :target: https://pip-install-test.readthedocs.io/en/latest/?version=latest
+.. image:: https://readthedocs.org/projects/usi-grabber-cookiecutter/badge/?version=latest
+        :target: https://usi-grabber-cookiecutter.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
 
@@ -20,7 +20,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 
 * Free software: MIT license
-* Documentation: https://pip-install-test.readthedocs.io.
+* Documentation: https://usi-grabber-cookiecutter.readthedocs.io.
 
 
 Features

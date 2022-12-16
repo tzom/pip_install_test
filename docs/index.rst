@@ -1,4 +1,4 @@
-Welcome to pip_install_test's documentation!
+Welcome to usi_grabber's documentation!
 ======================================
 
 .. toctree::
